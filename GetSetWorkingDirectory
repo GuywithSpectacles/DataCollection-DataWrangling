@@ -1,0 +1,6 @@
+#A basic Component of working with data is knowing your working directory
+#The two main commands are "getwd()" and "setwd()".
+#Relative vs Absolute paths
+
+#Relative Path: Its the path that is an extension of the working directory
+#Absolute Path: Its the exact path of that working directory
